@@ -25,6 +25,7 @@ namespace WerewolfBot
             //Yes
 
             //alright I added this on my desktop
+            //alright I added this on my laptop
         public GameEngine()
         {
 
