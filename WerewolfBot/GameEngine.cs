@@ -15,6 +15,7 @@ namespace WerewolfBot
     {
         private newLobby lobby;
         //HELLO THIS IS AWESOME
+        //IKR
         public GameEngine()
         {
 
