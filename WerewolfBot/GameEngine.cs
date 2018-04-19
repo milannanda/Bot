@@ -14,6 +14,7 @@ namespace WerewolfBot
     public class GameEngine : ModuleBase<SocketCommandContext>
     {
         private newLobby lobby;
+        //HELLO THIS IS AWESOME
         public GameEngine()
         {
 
