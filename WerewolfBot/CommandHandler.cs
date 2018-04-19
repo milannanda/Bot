@@ -14,6 +14,7 @@ namespace WerewolfBot
         private DiscordSocketClient _client;
         private char prefix = '$';
         public CommandHandler(DiscordSocketClient client)
+
         {
             _client = client;
             _service = new CommandService();
