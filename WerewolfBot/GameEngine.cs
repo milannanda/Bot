@@ -22,7 +22,7 @@ namespace WerewolfBot
 
             //Hello this is a test
 
-            //Yes[
+            //Yes
         public GameEngine()
         {
 
